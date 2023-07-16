@@ -12,12 +12,11 @@ module.exports = {
     extend: {
       colors: {
         grey: '#212121',
-        pink: '#982E74',
-        purple: '#4C28A4',
-        blue: '#688AE6'
-      },
-      backgroundImage: {
-        'gradient-45': 'linear-gradient(120deg, var(--tw-gradient-stops))'
+        orange: '#EC5427',
+        darkPurple: '#312648',
+        lightPurple: '#5D4A68',
+        green: '#C0D5DA',
+        yellow: '#EFE8D8'
       }
     }
   },
