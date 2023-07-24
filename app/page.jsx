@@ -13,10 +13,10 @@ export default function Home() {
             </div>
 
             <div className='md:row-span-1'>
-              <p className=' md:text-2xl text-grey'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat .</p>
+              <p className=' md:text-2xl text-grey'>After more than 6 years as a Senior Multimedia Designer, it's time to add new skills to my professional profile as a designer and web developer.</p>
             </div>
 
-            <div className='md:row-span-1'>
+            <div className='md:row-span-1 md:mt-6'>
               <Link href='/contact' className='relative inline-block text-lg group'>
                 <span className='relative z-10 block px-14 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white'>
                   <span className='absolute inset-0 w-full h-full px-5 py-3 rounded-lg bg-gray-50' />
@@ -29,7 +29,7 @@ export default function Home() {
           </div>
         </div>
         <div className='md:w-2/5 md:flex md:justify-end'>
-          <Image className='md:-mt-8 md:-mr-4 md:hover:scale-110 duration-200 transition-all ease-in-out' width={500} height={500} alt='David avatar' src='/../public/img/david_avatar.png' />
+          <Image className='md:-mt-8 md:-mr-4 md:hover:scale-105 duration-200 transition-all ease-in-out' width={500} height={500} alt='David avatar' src='/../public/img/david_avatar.png' />
         </div>
       </div>
     </div>
