@@ -6,7 +6,7 @@ function Technologies() {
     <div className='md:flex md:justify-center md:mt-[70px]'>
       <div className='md:w-8/12 md:h-[450px] md:gap-16 text-darkPurple'>
 
-        <div className='md:flex md:gap-16'>
+        <div className='md:flex md:justify-around md:gap-16'>
           <SkillButton icon='/../public/img/html_logo.png' />
           <SkillButton icon='/../public/img/css_logo.png' />
           <SkillButton icon='/../public/img/js_logo.png' />
