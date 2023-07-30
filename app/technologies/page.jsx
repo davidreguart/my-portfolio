@@ -7,18 +7,18 @@ function Technologies() {
       <div className='md:w-8/12 md:h-[450px] md:gap-16 text-darkPurple'>
 
         <div className='md:flex md:justify-around md:gap-16'>
-          <SkillButton icon='/../public/html_logo.png' />
-          <SkillButton icon='/../public/css_logo.png' />
-          <SkillButton icon='/../public/js_logo.png' />
-          <SkillButton icon='/../public/react_logo.png' />
-          <SkillButton icon='/../public/figma_logo.png' />
+          <SkillButton icon='/html_logo.png' />
+          <SkillButton icon='/css_logo.png' />
+          <SkillButton icon='/js_logo.png' />
+          <SkillButton icon='/react_logo.png' />
+          <SkillButton icon='/figma_logo.png' />
         </div>
 
         <div className='md:flex md:justify-around md:px-10 md:gap-16 md:mt-16'>
-          <SkillButton icon='/../public/bootstrap_logo.png' />
-          <SkillButton icon='/../public/tailwind_logo.png' />
-          <SkillButton icon='/../public/mongo_logo.png' />
-          <SkillButton icon='/../public/node_logo.png' />
+          <SkillButton icon='/bootstrap_logo.png' />
+          <SkillButton icon='/tailwind_logo.png' />
+          <SkillButton icon='/mongo_logo.png' />
+          <SkillButton icon='/node_logo.png' />
         </div>
 
       </div>
