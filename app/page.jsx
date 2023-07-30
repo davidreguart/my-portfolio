@@ -29,7 +29,7 @@ export default function Home() {
           </div>
         </div>
         <div className='md:w-2/5 md:flex md:justify-end'>
-          <Image className='md:-mt-8 md:-mr-4 md:hover:scale-105 duration-200 transition-all ease-in-out' width={500} height={500} alt='David avatar' src='/../public/david_avatar.png' />
+          <Image className='md:-mt-8 md:-mr-4 md:hover:scale-105 duration-200 transition-all ease-in-out' width={500} height={500} alt='David avatar' src='/david_avatar.png' />
         </div>
       </div>
     </div>
